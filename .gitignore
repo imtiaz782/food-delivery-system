@@ -1,0 +1,6 @@
+*.exe
+*.o
+*.log
+*.csv
+*.dat
+data/
