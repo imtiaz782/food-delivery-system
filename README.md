@@ -79,17 +79,21 @@ This project demonstrates real-world application of core data structures, effici
 
 
 ### 👤 2. Add New Customer
-![Add Customer](screenshots/add-customer.png)
+
+![Add Customer](https://github.com/user-attachments/assets/d98440b1-fe9b-43d9-ab4d-980df9331cd6)
 
 ### 🍽️ 3. Place Order and View Menu
-![Place Order](screenshots/place-order.png)
+
+![place order](https://github.com/user-attachments/assets/b41868a7-1d62-4311-baf7-8e5ae2b412ca)
 
 ### ⭐ 4. Sorted Restaurants (Merge Sort)
-![Sorted Restaurants](screenshots/sorted-restaurants.png)
+![Display Restaurants](https://github.com/user-attachments/assets/45326dd8-eb4a-443a-89d5-1c91e3717261)
+
 
 ### 🍕 5. BST Search – Menu Items by Price
-![Search Menu](screenshots/search-menu.png)
+![main menu](https://github.com/user-attachments/assets/ccdd9fc6-10a0-48ec-a2d8-07cd97e54d7f)
+
 
 ### ⚡ 6. Sorting & DFS Performance Analysis
-![Performance Analysis](screenshots/performance.png)
+![Performance Analysis](https://github.com/user-attachments/assets/bc23c033-ec96-4b55-98f4-2d309ed21e85)
 
