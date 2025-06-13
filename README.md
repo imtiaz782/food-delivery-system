@@ -61,8 +61,8 @@ Supervised by: **Sir Shakeel**
 
 ## 🔗 Links
 
-- 📁 [GitHub Repo](https://github.com/yourusername/food-delivery-system)
-- 🔗 [LinkedIn Post](https://linkedin.com/posts/your-post-link)
+- 📁 https://github.com/imtiaz782/food-delivery-system
+- 🔗 https://www.linkedin.com/in/imtiazak782/recent-activity/all/
 
 ---
 
